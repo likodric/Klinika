@@ -1,0 +1,20 @@
+.loginUsernameInput input {
+  width: 350px;
+}
+
+.loginRemember {
+  .ant-form-item-control-input-content {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.logInBtn {
+  width: 400px;
+}
+
+.errorMessage{
+ 
+  width: 400px;
+  height: 50px;
+}

@@ -1,0 +1,13 @@
+@import "../../styles/colors.scss";
+.loginPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .loginTitle {
+    color: $blue;
+  }
+  svg {
+    color: $blue;
+  }
+}
